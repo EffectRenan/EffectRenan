@@ -2,7 +2,7 @@
 
 [<img src="https://img.shields.io/badge/Blog-%23E5E500?style=for-the-badge&logo=google-chrome&logoColor=%23000000" />](https://blog.effectrenan.com)
 [<img src="https://img.shields.io/badge/Linkedin-%23E5E500?style=for-the-badge&logo=Linkedin&logoColor=%23000000" />](https://linkedin.com/in/effectrenan)
-[<img src="https://img.shields.io/badge/Twitter-%23E5E500?style=for-the-badge&logo=twitter&logoColor=%23000000" />](https://twitter/effectrenan)
+[<img src="https://img.shields.io/badge/Twitter-%23E5E500?style=for-the-badge&logo=twitter&logoColor=%23000000" />](https://twitter.com/effectrenan)
   
 </h1>
 
