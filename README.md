@@ -8,6 +8,10 @@
 
 ### Blog posts
 
+[2024-02-06 | DiceCTF 2024 - Funnylogin](https://blog.effectrenan.com/dicectf-2024-funnylogin/)
+
+[2023-01-02 | Intigriti's December XSS challenge (1222)](https://blog.effectrenan.com/intigriti-december-xss-challenge-1222/)
+
 [2022-04-17 | Hackaflag CTF 2022 - Desafio AP1 da etapa 1](https://blog.effectrenan.com/hackaflag-2022-etapa1/)
 
 [2021-06-07 | Intigriti's 0521 XSS Challenge - A possible solution](https://blog.effectrenan.com/intigriti-xss-challenge-0521/)
